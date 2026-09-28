@@ -6,7 +6,7 @@ I built this project using HTML and CSS to practice creating a complete multi-se
 
 ## 📸 Project Screenshot
 
-![DevConf 2026 Screenshot](./assets/devconf-screenshot.png)
+![DevConf 2026 Screenshot](taherascript.github.io_DEVCONF-HtmlCss_.png)
 
 
 ## 🛠️ Technologies Used
